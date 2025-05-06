@@ -6,10 +6,16 @@ Les modules python/arduino nécessaires:
 **Python:**
 - numpy
 - matplotlib
+- matplotlib.pyplot
+- csv
+- pandas
+- pathlib
+- sklearn.linear_model
 - nidaqmx
 - time
 - multiprocessing
 - keyboard
+  
   
 **Arduino:**
 - Boards:
